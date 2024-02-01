@@ -407,7 +407,7 @@ class CustomImagee extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       child: Image.asset(
-        "assets/desktop/genshinn.jpg",
+        "assets/images/genshinn.jpg",
       
       ),
     );
